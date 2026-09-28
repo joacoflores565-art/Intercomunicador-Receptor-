@@ -252,27 +252,6 @@ El proyecto ya pasó de ser solamente una prueba de programación a convertirse 
 
 ---
 
-# 12. Próximas etapas
-
-Para llegar a una versión completamente funcional para el centro de salud, las siguientes etapas serían:
-
-### 1. Finalizar la comunicación por red
-
-Establecer definitivamente el protocolo utilizado entre los equipos emisores y el receptor.
-
-### 2. Integrar el audio con la red
-
-Hacer que el audio capturado por una computadora pueda ser enviado correctamente a la computadora receptora.
-
-### 3. Configurar el receptor
-
-Dejar la computadora receptora funcionando de forma sencilla, idealmente iniciando el receptor automáticamente.
-
-### 4. Pruebas con varios equipos
-
-Probar simultáneamente varias computadoras conectadas a la misma red.
-
-### 5. Pruebas de estabilidad
 
 Comprobar:
 
